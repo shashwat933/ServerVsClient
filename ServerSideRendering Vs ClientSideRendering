@@ -1,0 +1,14 @@
+
+Server-side rendering (SSR) and client-side rendering (CSR) are two approaches to how web pages are rendered and displayed in a user's browser. Here are the key differences between them:
+
+Server-Side Rendering (SSR):
+
+Server-side rendering (SSR) is a web development approach where a server generates the HTML for a web page before sending it to the client's browser. In SSR, the server processes requests and dynamically creates the page content, including initial data, before delivering a fully rendered page to the user's browser. This contrasts with client-side rendering, reducing the need for extensive client-side processing. SSR enhances search engine optimization (SEO) and provides a more efficient initial page load experience, especially for users with slower internet connections or less powerful devices.
+
+Client-Side Rendering (CSR):
+
+Client-side rendering refers to the process of rendering web content on the user's device using their web browser. In this approach, the browser downloads the necessary code and data and executes it locally, reducing the need for frequent server requests. This can enhance user experience by minimizing page reloads, enabling dynamic content updates without full page refreshes, and distributing processing tasks to the client's machine. Commonly associated with single-page applications (SPAs), client-side rendering shifts some rendering responsibilities from the server to the client, resulting in faster initial page loads and a more interactive user interface.
+
+Client-side rendering for InterView Echo:
+
+Client-side rendering (CSR) enhances InterviewEcho's dynamic nature by providing an interactive user experience. This approach allows seamless exploration and sharing of interview insights without full-page reloads, fostering real-time engagement. CSR facilitates efficient content management, real-time updates, and faster page transitions, contributing to a user-friendly platform. With a reduced server load for user-driven actions, InterviewEcho becomes adaptable to individual preferences, ensuring a responsive and personalized knowledge-sharing environment among NITH seniors.
